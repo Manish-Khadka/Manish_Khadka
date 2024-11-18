@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mansh, an <a https://www.linkedin.com/in/manish-khadka-b51200190/>IT Professional</a>☺</h1>
+<h1>Hi, I'm Manish, an <a href=https://www.linkedin.com/in/manish-khadka-b51200190/>IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
