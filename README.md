@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Manish-Khadka/osTicket-Post-installation-configuaration/blob/main/README.md)
   - [osTicket: Resolving Issues](https://github.com/Manish-Khadka/osTicket-Resolving-Tickets/blob/main/README.md)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring Active Directory inAzure](https://github.com/Manish-Khadka/Active-Directory-Configurations-in-Azure/blob/main/README.md)
   - [Network Security Groups (NSGs) and Inspecting Network Traffic within Azure](https://github.com/Manish-Khadka/Inspecting-traffic-within-Azure-Virtual-Machines/blob/main/README.md)
 <h2>🤳Connect with me:</h2>
 
