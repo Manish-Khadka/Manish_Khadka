@@ -1,6 +1,6 @@
 <h1>Hi, I'm Manish, an <a href=https://www.linkedin.com/in/manish-khadka-b51200190/>IT Professional
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Manish-Khadka/osTicket-Prequisites-and-Installation/blob/main/README.md)
